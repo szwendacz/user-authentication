@@ -1,0 +1,34 @@
+{
+   "success":{
+      "total":1
+   },
+   "contents":{
+      "quotes":[
+         {
+            "quote":"When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.",
+            "length":"140",
+            "author":"Jean Shinoda Bolen",
+            "tags":[
+               "discover",
+               "inspire",
+               "nourish",
+               "self-help",
+               "soul",
+               "tso-life"
+            ],
+            "category":"inspire",
+            "language":"en",
+            "date":"2020-09-17",
+            "permalink":"https://theysaidso.com/quote/jean-shinoda-bolen-when-you-recover-or-discover-something-that-nourishes-your-so",
+            "id":"9eJdOarionLzPMRAp5rRXgeF",
+            "background":"https://theysaidso.com/img/qod/qod-inspire.jpg",
+            "title":"Inspiring Quote of the day"
+         }
+      ]
+   },
+   "baseurl":"https://theysaidso.com",
+   "copyright":{
+      "year":2022,
+      "url":"https://theysaidso.com"
+   }
+}

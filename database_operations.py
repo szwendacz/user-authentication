@@ -18,18 +18,18 @@ def create_new_db(db_name, table_name, columns):
 def delete_db(db_name):
     try:
         os.remove(db_name + ".db")
-        print("Baza danych zostal usunieta")
+        print("Database was removed")
     except OSError:
-        print("Baza danych nie istnieje")
+        print("Database doesn't exist")
 
 
 def exist_db(db_name):
     path = db_name + ".db"
     if os.path.exists(path):
-        print(f"Baza danych o nazwie {db_name} istnieje w naszej aplikacji")
+        print(f"Database {db_name} exists")
         return True
     else:
-        print(f"Baza danych o nazwie {db_name} nie istnieje w naszej aplikacji")
+        print(f"Database {db_name} doesn't exist")
         return False
 
 
